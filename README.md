@@ -1,6 +1,6 @@
 <h1 align="center">I'm Guaxinim</h1>
 <div align="center">
-  <b>Fullstack Developer | Low Level enthusiast | Discord Bot Owner</b>
+  <b>Fullstack Developer | Low Level enthusiast | From Brazil 🇧🇷</b>
   <br><br>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"></a>
